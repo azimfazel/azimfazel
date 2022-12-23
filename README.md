@@ -1,11 +1,10 @@
+Experience
 
 I am AbdolAzim Fazel assistant professor of Iranian Fisheries Science Research Institute, Center of Golestan.    
 During 2 years of my work in Iranian fisheries science research institute, I have challenge with extensive range of responsibilities including optimizing past project and complete them by modeling, improving data collection methods and protocols in sampling of aquatic ecosystems, processing data and doing mathematical and statistical and spatial modeling in projects and education of them to other careers. As a Data Scientist, I was required to have excellent communication skills, understanding of algorithms, excellence in the spatial analysis by Geographical information systems, Professionally trained in R and Pyton languages, dynamic modeling by Stella.
 
 
-*Experience
-
-
+*Education
 
 Ph.D. in Fishery and Aquatic Sciences_ Gorgan University of Agricultural Sciences and Natural Resources
 Doctoral thesis: Effect of landuse and vegetation cover on riverine assemblages
